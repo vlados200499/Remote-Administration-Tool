@@ -1,0 +1,1 @@
+"It's my first student project. I built a basic client-server app using Winsock. I also attempted to add a basic UI using Dear ImGui. One significant challenge for me was working on the server and UI independently. It took me a week to discover that I needed to pass a pointer to a class function, not the function itself🤡. But eventually, I added client per thread handling :)."
